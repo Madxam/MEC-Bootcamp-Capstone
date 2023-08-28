@@ -1,0 +1,8 @@
+I determined 3 candidate datasets, all available on kaggle and linked below, for use in my capstone process.
+I will ultimately be using the Goodreads dataset due to its size.
+
+https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+
+https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset
+
+https://www.kaggle.com/datasets/bahramjannesarr/goodreads-book-datasets-10m
